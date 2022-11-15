@@ -2,11 +2,6 @@
 
 It's a minimal and light wordpress blog theme :art:.
 
-[Live persian demo](https://theyahya.com/blog/)
-
-## Screenshot
-![Screenshot](https://raw.githubusercontent.com/TheYahya/thewhite/master/screenshot.png)
-
 ## To-Do list
 
 - [x] Automate the compile of sass and language files with gulp.
